@@ -9,8 +9,8 @@ public class Vehicle {
 	float review = 9.5609f;
 	
 	public static void main(String[] args) {
-		Vehicle car = new Vehicle();
-		System.out.println(car.price);
+		Vehicle toyota = new Vehicle();
+		System.out.println(toyota.price);
 
 	}
 
